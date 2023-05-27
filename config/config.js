@@ -17,7 +17,7 @@ module.exports = {
   },
   production: {
     username: 'root',
-    password: process.env.SEQUELIZE_PASSWORD,
+    password: 'young120108',
     database: 'nodebird',
     host: '127.0.0.1',
     dialect: 'mysql',
